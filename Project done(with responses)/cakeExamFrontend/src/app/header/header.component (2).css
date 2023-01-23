@@ -1,0 +1,26 @@
+#navBar{
+    background-color: #FFFBE9;;
+    color: #CEAB93;
+    font-size:1.2rem;
+}
+.dropdown-item{
+    font-size:1rem;
+}
+.navbar-brand{
+    font-family: 'Combo', cursive;
+    margin-right:5%;
+    font-size:1.5rem;
+}
+.nav-item{
+    font-family: 'Montserrat', sans-serif;
+    margin-right:8%;
+}
+.nav-link:hover{
+    color: #AD8B73;
+}
+.btn{
+    color:#F1A661;
+}
+h5{
+    text-align:center;
+}
